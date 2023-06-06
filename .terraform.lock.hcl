@@ -5,6 +5,7 @@ provider "registry.terraform.io/roleypoly/discord-interactions" {
   version     = "0.1.0"
   constraints = "0.1.0"
   hashes = [
+    "h1:jkF5cvN3QTdbddeig3B2p8fKVP0llbOIrQCZrcM3rXs=",
     "h1:pLVicdZp18exf+NaCUx/p0iAjmJTBtPnfmM93N3wyX8=",
     "zh:11c3b7b42d6785ef748f397a1a13d790a73b139e06871eb2dd9b9d481f1c4f30",
     "zh:3c0da1d7cb4d2bac29e6641b9dba10ea5069150fe52272bf45436e34b99d72f0",
