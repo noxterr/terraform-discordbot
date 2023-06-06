@@ -9,4 +9,7 @@ terraform {
 
 provider "discord-interactions" {
   # Configuration options
+  credentials = file("variables.tf")
+  application_id = credentials.application_id
+  token = credentials.token
 }
