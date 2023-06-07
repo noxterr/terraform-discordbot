@@ -1,6 +1,6 @@
 ### Discord bot written with HASHICORP's terraform
 
-Copy the `variables .example.tfvars` file into a file named `variables.tf`
+Copy the `variables.example.tfvars` file into a file named `variables.tf`
 
 Change the variables inside `variables.tf` with the real data
 
