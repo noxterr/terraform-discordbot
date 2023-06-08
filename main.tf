@@ -14,7 +14,7 @@ provider "discord-interactions" {
 }
 
 resource "discord-interactions_global_command" "example" {
-  name        = "hello-world"
+  name        = "ping"
   description = "An example guild-specific command"
 
   option {
